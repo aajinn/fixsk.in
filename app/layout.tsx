@@ -14,8 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Fixsk.in",
-  description: "Healthy skin, happy you.
-  ",
+  description: "Healthy skin, happy you"
 };
 
 export default function RootLayout({
